@@ -12,7 +12,8 @@
     }
   ],
   "require": {
-    "composer/installers": "~1.0"
+    "composer/installers": "~1.0",
+    "drupal/views": "7.*"
   },
   "extra": {
     "branch-alias": {
