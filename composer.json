@@ -1,0 +1,23 @@
+{
+  "name": "cococollective/coco-faq",
+  "type": "drupal-module",
+  "description": "Drupal module. Provides a content type for Frequently Asked Questions.",
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/cococollective/coco-faq",
+  "authors": [
+    {
+      "name": "Sierk Beij",
+      "email": "sierk@riseup.net",
+      "role": "Lead developer for CocoCollective"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0",
+    "drupal/drupal": "7.*",
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-7.x-0.x": "7.0.x-dev"
+    }
+  }
+}
